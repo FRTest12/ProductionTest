@@ -2,7 +2,7 @@
 #include <iostream>
 int main()
 {
-	int a = 1354;
+	int a = 0;
 	int b = 20;
 
 	std::cout<<(a+b)<<"\n";
